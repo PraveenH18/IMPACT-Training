@@ -29,7 +29,7 @@ private qty:number=0;
            this.unitPrice=value;
         }
 
-        public get pQty():number
+        public get pqty():number
         {
           return this.qty;
         }
